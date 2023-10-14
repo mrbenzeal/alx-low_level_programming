@@ -1,6 +1,6 @@
 /*
  * File: 3-print_all.c
- * Auth: Tolulope Fakunle
+ * Auth: Ani Obinna Benzeal
  */
 
 #include "variadic_functions.h"
