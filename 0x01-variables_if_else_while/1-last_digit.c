@@ -5,15 +5,17 @@
 
 /* betty style doc for function main goes there */
 /**
- * main - main function
+ * main - main block
  *
- * Return: Always 0
+ * Description: print last digit in random number
+ *
+ * Return: Always 0 (Success)
  */
 
 int main(void)
 {
-	int n;
-	int m;
+	int n; /* variable storing random values */
+	int m; /* variable storing the last digit of 'n' */
 
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
