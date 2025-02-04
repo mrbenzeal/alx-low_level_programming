@@ -1,9 +1,11 @@
 #include <stdio.h>
 
 /**
- * main - main function
+ * main - print the letters of the alphabe
  *
- * Return: Always 0
+ * Description: print the letters of the aphabet in lower then in uppercase
+ *
+ * Return: Always 0 (Success)
  */
 
 int main(void)
