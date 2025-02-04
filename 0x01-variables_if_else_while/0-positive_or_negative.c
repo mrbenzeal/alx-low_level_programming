@@ -2,11 +2,15 @@
 #include <time.h>
 /* more headers goes there */
 #include <stdio.h>
+
 /* betty style doc for function main goes there */
 /**
- * main - main function
+ * main - determine if number is positive or negative
  *
- * Return: Always 0
+ * Description: program will assign a random number to the variable 'n' each time
+ * it is executed, and prints it.
+ *
+ * Return: Always 0 (Success)
  */
 
 int main(void)
